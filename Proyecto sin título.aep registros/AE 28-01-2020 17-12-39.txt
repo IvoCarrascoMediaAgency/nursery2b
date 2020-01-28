@@ -1,0 +1,8 @@
+  28/01/2020 17:12:39: Iniciando composición "tempConverterComp".
+
+  Salida a: C:\Users\Google\AppData\Local\Temp\Bodymovin\8j8rm7id1h\raw\images\img_0.png    28/01/2020 17:12:40: Composición finalizada "tempConverterComp".
+
+
+  Tiempo total transc.: 1 segundos
+Registro cerrado en 28/01/2020 a las 17:12:40
+
